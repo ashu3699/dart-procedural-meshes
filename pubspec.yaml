@@ -1,0 +1,6 @@
+name: dart_procedural_meshes
+description: "Procedural triangle meshes in pure Dart: icosphere, torus, torus knot, welded normals. Zero dependencies."
+version: 1.0.0
+repository: https://github.com/ashu3699/dart-procedural-meshes
+environment:
+  sdk: ^3.6.0
